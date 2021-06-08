@@ -10,7 +10,7 @@ public class lacoderepeticao {
 		
 		int x = 0;
 		
-		while (x<10) {
+		while (x<9) {
 			x = sc.nextInt();
 			
 			System.out.println("x = "+ x);
